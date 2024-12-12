@@ -1,4 +1,4 @@
 # myproject
 First Git repository
 <br>
-Name: <b> <i>Sanwal Mehmood<i><b>
+Name: <b> <i>Sanwal Mehmood Sultan<i><b>
